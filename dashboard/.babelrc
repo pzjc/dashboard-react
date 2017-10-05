@@ -1,0 +1,6 @@
+1 {
+2   "presets": [
+3     ["react"], ["env"]
+4   ],
+5   "plugins": ["transform-object-rest-spread"]
+6 }
